@@ -13,3 +13,4 @@ Step 2 : Open chrome  browser . Head towards extension corner and click manage e
 
 Step 3 : On the top left corner you will see the option of "Load Unpacked"  .  Click that and upload the files . You will then see this extension on your browser and then you can use it .
 
+Step 4 : Click on pick color button then pick the color it will automatically copies the color code  . Yay! you are done!
